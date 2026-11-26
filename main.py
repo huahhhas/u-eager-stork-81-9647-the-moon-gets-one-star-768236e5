@@ -8,7 +8,7 @@ to /output/entry.txt and prints that same line, nothing else.
 
 import os
 
-LINE = "One star. It drags my ocean around twice a day, shows up late every night, and glows with someone else's light."
+LINE = "One star. It drags my ocean around twice a day, shows up late every night, and brags about a glow that isn't its own."
 
 
 def main():
